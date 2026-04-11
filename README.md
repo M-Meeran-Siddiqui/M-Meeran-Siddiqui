@@ -30,7 +30,7 @@
 **Databases & Tools:**  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-E6EDF3?style=for-the-badge&logo=github&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge)
 
