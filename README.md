@@ -9,7 +9,7 @@ Building modern, scalable and user-friendly web applications with Angular.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/meeran2004/">
+  <a href="https://www.linkedin.com/in/meeran-siddiqui01">
     <img src="https://img.shields.io/badge/LinkedIn-Meeran%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -92,7 +92,7 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/meeran2004/
+- 💼 LinkedIn: https://www.linkedin.com/in/meeran-siddiqui01
 - 📧 Email: siddiqui.meeran01@gmail.com
 
 ---
