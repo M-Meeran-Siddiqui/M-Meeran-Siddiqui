@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meeran Siddiqui</h1>
 
 <h3 align="center">
-Frontend Angular Developer | Angular • TypeScript • RxJS
+Frontend Angular Developer | Angular • TypeScript • RxJS • NgRx
 </h3>
 
 <p align="center">
@@ -37,6 +37,7 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 - Angular
 - TypeScript
 - RxJS
+- NgRx
 - JavaScript (ES6+)
 - REST APIs
 - Bootstrap
