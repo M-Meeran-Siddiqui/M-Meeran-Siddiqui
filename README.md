@@ -24,7 +24,7 @@ Building modern, scalable and user-friendly web applications with Angular.
 
 I'm a Software Engineer from India 🇮🇳 passionate about building scalable, maintainable, and user-friendly web applications.
 
-Currently, I'm working as a **Frontend Angular Developer** at **Azmarq Technovation**, developing enterprise web applications using Angular, TypeScript, RxJS, Bootstrap, Tailwind CSS, and REST APIs.
+Currently, I'm working as a **Frontend Angular Developer** at **Azmarq Technovation**, developing enterprise web applications using Angular, TypeScript, RxJS, NgRx, Bootstrap, Tailwind CSS, and REST APIs.
 
 Previously, I worked as a **Junior Associate Software Developer (Ruby on Rails)**, where I gained professional experience in backend development, REST APIs, authentication, and database-driven applications.
 
