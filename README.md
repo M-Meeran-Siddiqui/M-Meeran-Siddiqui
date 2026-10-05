@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meeran Siddiqui</h1>
 
 <h3 align="center">
-Frontend Angular Developer | Angular • TypeScript • RxJS • NgRx
+Frontend Angular Developer | Angular • TypeScript • RxJS • NgRx • NgRx SignalStore
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@ Building modern, scalable and user-friendly web applications with Angular.
 
 I'm a Software Engineer from India 🇮🇳 passionate about building scalable, maintainable, and user-friendly web applications.
 
-Currently, I'm working as a **Frontend Angular Developer** at **Azmarq Technovation**, developing enterprise web applications using Angular, TypeScript, RxJS, NgRx, Bootstrap, Tailwind CSS, and REST APIs.
+Currently, I'm working as a **Frontend Angular Developer** at **Azmarq Technovation**, developing enterprise web applications using Angular, TypeScript, RxJS, NgRx, NgRx SignalStore, Bootstrap, Tailwind CSS, and REST APIs.
 
 Previously, I worked as a **Junior Associate Software Developer (Ruby on Rails)**, where I gained professional experience in backend development, REST APIs, authentication, and database-driven applications.
 
@@ -38,6 +38,7 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 - TypeScript
 - RxJS
 - NgRx
+- NgRx SignalStore
 - JavaScript (ES6+)
 - REST APIs
 - Bootstrap
