@@ -26,7 +26,7 @@ I'm a Software Engineer from India 🇮🇳 passionate about building scalable, 
 
 Currently, I'm working as a **Frontend Angular Developer** at **Azmarq Technovation**, developing enterprise web applications using Angular, TypeScript, RxJS, NgRx, NgRx SignalStore, Bootstrap, Tailwind CSS, and REST APIs.
 
-Previously, I worked as a **Junior Associate Software Developer (Ruby on Rails)**, where I gained professional experience in backend development, REST APIs, authentication, and database-driven applications.
+Previously, I completed an engineering internship focused on **Ruby on Rails**, building solid foundations in backend architecture, REST APIs, authentication systems, and relational databases.
 
 I enjoy solving real-world problems, writing clean and maintainable code, and continuously improving my software engineering skills.
 
